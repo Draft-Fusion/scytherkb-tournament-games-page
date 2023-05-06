@@ -1,0 +1,126 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(74, 148, 74);
+    font-family: 'Righteous', cursive;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+
+
+
+
+
+h1{
+    background-color: rgba(0, 0, 0, 0.144);
+    margin-top: 0%;
+    padding: 8px;
+}
+
+h3{
+    padding: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+p{
+    color: rgb(45, 53, 44);
+    text-align: center;
+}
+
+
+
+
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 50px 30px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 26px;
+}
+
+
+
+
+
+.purpleTxt{
+    color: rgb(96, 85, 196);
+}
+
+.redTxt{
+    color: rgb(187, 87, 87);
+}
+
+.bothTxt{
+    font-size: 125%;
+}
+
+
+
+
+
+
+.listedWinners{
+    text-align: center;
+    padding: 18px;
+    border: 8px solid rgb(74, 148, 74);
+}
+
+.winnerTitle{
+    font-size: 150%;
+    background-color: rgba(86, 102, 64, 0.486);
+}
+
+.goldenTxt{
+    color: gold;
+    background-color: rgba(86, 102, 64, 0.486);
+}
+
+.silverTxt{
+    color: silver;
+    background-color: rgba(86, 102, 64, 0.486);
+}
+
+
+
+
+
+.boxEvents{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+table{
+    text-align: center;
+}
+
+a:link{
+    color: rgb(109, 78, 138);
+}
+
+a:hover{
+    color: rgba(255, 255, 0, 0.651);
+}
+
+a:visited{
+    color:rgba(238, 106, 133, 0.596);
+}
+
+@media screen and (min-width: 320px) {
+
+}
