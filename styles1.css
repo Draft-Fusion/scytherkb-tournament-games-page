@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    background-color: rgb(74, 148, 74);
+    background-color: rgb(25, 32, 25);
     font-family: 'Righteous', cursive;
     padding: 0%;
     margin: 0%;
@@ -22,6 +22,8 @@ ul{
 }
 
 p{
+    
+    color: rgb(74, 148, 74);
     text-align: left;
     font-size: 125%;
 }
