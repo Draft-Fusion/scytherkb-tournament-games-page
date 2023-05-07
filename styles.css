@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    background-color: rgb(25, 32, 25);
+    background-color: rgb(41, 44, 41);
     /* background-color: rgb(74, 148, 74); */
     font-family: 'Righteous', cursive;
     padding: 0%;
@@ -15,7 +15,7 @@
 
 h1{
     color: rgb(74, 148, 74);
-    background-color: rgba(0, 0, 0, 0.144);
+    background-color: rgba(0, 0, 0, 0.397);
     margin-top: 0%;
     padding: 8px;
 }
