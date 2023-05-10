@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    background-color: rgb(41, 44, 41);
+    background-color: rgb(48, 59, 55);
     /* background-color: rgb(74, 148, 74); */
     font-family: 'Righteous', cursive;
     padding: 0%;
@@ -30,7 +30,13 @@ h3{
 
 p{
     color: rgb(74, 148, 74);
+    background-color: rgba(0, 0, 0, 0.397);
+    border-radius: 15px;
     text-align: center;
+    max-width: 1024px;
+    margin: 0.3% auto;
+    padding: 1%;
+
 }
 
 
@@ -47,7 +53,7 @@ nav{
 nav ul li{
     list-style-type: none;
     display: inline-block;
-    padding: 50px 30px;
+    padding: 50px 35px;
 }
 
 a{
@@ -77,6 +83,15 @@ a{
 
 
 .listedWinners{
+    top: 55%;
+    bottom: auto;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    border-radius: 50px;
+    max-width: 1024px;
+    background-color: rgba(202, 212, 65, 0.089);
     text-align: center;
     padding: 18px;
     border: 8px solid rgb(74, 148, 74);
@@ -117,11 +132,11 @@ a:link{
 }
 
 a:hover{
-    color: rgba(255, 255, 0, 0.651);
+    color: rgba(0, 255, 34, 0.651);
 }
 
 a:visited{
-    color:rgba(238, 106, 133, 0.596);
+    color:rgba(216, 201, 71, 0.596);
 }
 
 @media screen and (min-width: 320px) {
