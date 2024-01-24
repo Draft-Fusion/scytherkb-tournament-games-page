@@ -23,12 +23,14 @@ a{
     text-align: center;
     border-radius: 8px;
     color: #93bf8a;
+    font-size: 2.5vw;
 }
 
 ul{
     display: flex;
     justify-content: space-around;
     list-style-type: none;
+    
 }
 
 .scythHead{
